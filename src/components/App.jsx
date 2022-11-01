@@ -2,6 +2,7 @@ import React from "react";
 import Profile from "./Profile";
 import Footer from "./Footer";
 import Button from "./Button";
+import Social from "./Social";
 // import ProfileImg from "../components/img/Tobi 2.jpg";
 
 function App() {
@@ -15,7 +16,7 @@ function App() {
       <Button />
       <Button />
       <Button />
-
+      <Social />
       <Footer />
     </div>
   );
