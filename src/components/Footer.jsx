@@ -3,7 +3,7 @@ import React from "react";
 function Footer() {
   return (
     <footer>
-      <div class="footer-items">
+      <div className="footer-items">
         <div className="footer-item">
           <img src="images/zuri.svg" alt="" />
         </div>
