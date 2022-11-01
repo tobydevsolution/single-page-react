@@ -5,13 +5,13 @@ function Footer() {
     <footer>
       <div class="footer-items">
         <div className="footer-item">
-          <img src="img/zuri.svg" alt="" />
+          <img src="images/zuri.svg" alt="" />
         </div>
         <div className="footer-item">
           <p>HNG Internship 9 Frontend Task</p>
         </div>
         <div className="footer-item">
-          <img src="img/I4G.svg" alt="" />
+          <img src="images/I4G.svg" alt="" />
         </div>
       </div>
     </footer>
