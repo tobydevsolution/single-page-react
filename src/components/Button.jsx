@@ -68,6 +68,11 @@ function Button() {
           Explore These books to learn design and coding
         </sub>
       </div>
+      <div className="contact box" id="contact">
+        <a href="contact.html">Contact Me</a>
+        <br />
+        <sub className="sub">Explore These section for my contact</sub>
+      </div>
     </div>
   );
 }
