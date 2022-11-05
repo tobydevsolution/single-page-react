@@ -69,7 +69,7 @@ function Button() {
         </sub>
       </div>
       <div className="contact box" id="contact">
-        <a href="../Contact">Contact Me</a>
+        <a href="/Contact">Contact Me</a>
         <br />
         <sub className="sub">Explore These section for my contact</sub>
       </div>
