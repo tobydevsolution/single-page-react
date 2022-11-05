@@ -123,6 +123,7 @@ header p > small {
 @media (max-width: 480px) {
   .contact-form-wrapper .header-text {
     margin: 0 6%;
+    text-align: right;
   }
 }
 .contact-form-wrapper .header-text p {
@@ -148,7 +149,7 @@ form .firstinputs {
 form .firstinputs .item {
   display: flex;
   flex-direction: column;
-  width: 46%;
+  width: 49%;
 }
 form label {
   display: block;
