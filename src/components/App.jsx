@@ -9,11 +9,6 @@ function App() {
     <div>
       <Profile />
       <Button />
-      {/* <Button />
-      <Button />
-      <Button />
-      <Button />
-      {/* <Button /> */}
       <Social />
       <Footer />
     </div>
